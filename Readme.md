@@ -34,6 +34,4 @@ Navigate to any assignment folder and run the notebook or script provided.
 cd Assignment_3_Bike_Demand_Forecasting
 jupyter notebook Bike_Demand_Forecasting.ipynb
 
-Author
-
-Sarthak
+Author: Sarthak
