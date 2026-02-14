@@ -76,7 +76,7 @@ pip install pandas scikit-learn matplotlib
 ### Execution
 
 1. Download the `ML_Assgn_01.ipynb` file.
-2. Ensure the dataset file `wdbc.data` is in the correct path (as specified in the notebook, or update the path in the code).
+2. Ensure the dataset file `wdbc.data` is in the correct path (as specified in the notebook).
 3. Run the notebook cells sequentially to reproduce the analysis.
 
 ## 📝 Conclusion
